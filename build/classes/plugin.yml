@@ -1,0 +1,11 @@
+name: DreamWorldShifter2
+main: dreamworldshifter2.DreamWorldShifter2
+version: 1.0
+
+commands:
+    dreamstore:
+        description: It does stuff.
+    dreamtp:
+        description: It does stuff.
+    dreamtpother:
+        description: It does stuff.
